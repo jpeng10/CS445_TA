@@ -1,0 +1,2 @@
+Peng-Jian https://github.com/jpeng10/IIT_CS550.git
+Cornelius-Melanie https://github.com/mseryn/CS445_Object_Oriented_Design.git

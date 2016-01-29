@@ -1,0 +1,11 @@
+This script is used for stattistics of commits made by students to their git repository
+
+example:
+	./CS445_commits_count.sh repos.txt
+
+-- repos.txt is a file storing student names and their repository path. For example:
+
+Peng-Jian https://github.com/jpeng10/IIT_CS550.git
+
+The output file named by "commits_mm_dd_yy" will be generated. Content in the output file are
+student names and their commit numbers in the most recent 7 days.
